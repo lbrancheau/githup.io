@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+th,td {
+  border-collapse: collapse;
+  border-style:solid;
+}
+td {
+  height: 50px;
+  width:100px;
+  justify-content: center;
+  font-size: 100px;
+}
+#table {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+#Top {
+font-family: 'Lobster', cursive;
+}
+#Rules { 
+    font-family: 'Lobster', cursive;
+}
+#RulesBody {
+    font-family: 'Lobster Two', cursive;
+}
+#Chance {
+    font-family: 'Lobster', cursive;
+}
